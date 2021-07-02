@@ -1,0 +1,16 @@
+﻿  admin.cpp
+  admin_user.cpp
+F:\Documents\Desktop\考试系统\testSystem\admin_user.cpp(36,19): warning C4018: “<”: 有符号/无符号不匹配
+F:\Documents\Desktop\考试系统\testSystem\admin_user.cpp(91,7): warning C4101: “i”: 未引用的局部变量
+  find_info.cpp
+  funmain.cpp
+F:\Documents\Desktop\考试系统\testSystem\funmain.cpp(58,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+F:\Documents\Desktop\考试系统\testSystem\funmain.cpp(58,20): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  main.cpp
+  question.cpp
+  user.cpp
+F:\Documents\Desktop\考试系统\testSystem\user.cpp(89,19): warning C4018: “<”: 有符号/无符号不匹配
+F:\Documents\Desktop\考试系统\testSystem\user.cpp(184,7): warning C4101: “ch”: 未引用的局部变量
+F:\Documents\Desktop\考试系统\testSystem\user.cpp(279,7): warning C4101: “c”: 未引用的局部变量
+  正在生成代码...
+  testSystem.vcxproj -> F:\Documents\Desktop\考试系统\testSystem\Debug\testSystem.exe
